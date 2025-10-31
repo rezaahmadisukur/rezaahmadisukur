@@ -74,7 +74,7 @@
 <h2 align="center" style="margin: 0;font-family:'Poppins', sans-serif;">⚡ Github Stats</h2>
 
 <div align="center">
-    <div align="center">
+    <div align="center" style="display: flex">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaahmadisukur&show_icons=true&locale=en&theme=radical&title_color=5c00da&border_color=5c00da"  alt="rezaahmadisukur"/>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaahmadisukur&theme=radical&ring=5c00da&currStreakLabel=ffffff&fire=dbbf42&border=5c00da&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&" alt="rezaahmadisukur" />
     </div>
