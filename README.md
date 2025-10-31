@@ -11,22 +11,22 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rezaahmadisukur&label=&lt;/&gt;%20Profile%20Views&color=5c00da&style=social" alt="rezaahmadisukur" /></p>
 
-<<<<<<< HEAD
-<div  style="display: flex; flex-direction: row-reverse;">
-    <div style="width: 400px;">
-=======
 <div align="center" style="border: 1px solid; height:auto">
->>>>>>> ab9ee4e8e580420a39b78cc939868ded549c560e
     <img align="right" alt="coding-gif" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
     <ul align="left" style="font-family: 'Poppins', sans-serif;">
-        <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
+        <li>🌱 I’m currently learning 
+            <strong>MERN Stack</strong>
+        </li>
         <li>👨‍💻 All of my projects are available at
             <a href="https://rezaahmadisukur.github.io/my-portofolio.github.io/">
                 <strong>My Portofolio</strong>
             </a>
         </li>
-        <li>💬 Ask me about <strong>React and Laravel</strong></li>
-        <li>📫 How to reach me <strong>rezaahmadisukur1309@gmail.com</strong>
+        <li>💬 Ask me about 
+            <strong>React and Laravel</strong>
+        </li>
+        <li>📫 How to reach me 
+            <strong>rezaahmadisukur1309@gmail.com</strong>
         </li>
     </ul>
 </div>
