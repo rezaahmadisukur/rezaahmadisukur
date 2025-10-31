@@ -1,23 +1,101 @@
-<h1 style="text-align: center; color: skyblue;font-weight: 800">
-    JUNIOR WEB DEVELOPER
-</h1>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
-<h4 style="text-align: center; font-weight: 700">Nama saya Reza Ahmadi Sukur</h4>
-<br>
+![MasterHead](https://i.pinimg.com/1200x/ca/f4/a5/caf4a59fd5fe4cf4cc55957697914b38.jpg)
 
-# 💫 About Me
+<h1 align="center" style="font-family: 'Poppins', sans-serif;">Hi 👋, I'm <span style="color: #5c00da;">Reza Ahmadi Sukur</span> </h1>
+<h5 align="center" style="font-family: 'Poppins', sans-serif;">Web Developer from Indonesia</h3>
+<br />
 
-<!--
-**rezaahmadisukur/rezaahmadisukur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 style="font-family: 'Poppins', sans-serif;margin: 0">💫About Me</h2>
+<hr style="margin: 0 0 50px"/>
 
-Here are some ideas to get you started:
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rezaahmadisukur&label=&lt;/&gt;%20Profile%20Views&color=5c00da&style=social" alt="rezaahmadisukur" /></p>
 
--   🔭 I’m currently working on ...
--   🌱 I’m currently learning ...
--   👯 I’m looking to collaborate on ...
--   🤔 I’m looking for help with ...
--   💬 Ask me about ...
--   📫 How to reach me: ...
--   😄 Pronouns: ...
--   ⚡ Fun fact: ...
-    -->
+<div align="center" style="border: 1px solid; height:auto">
+    <div>
+        <img align="right" alt="coding-gif" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+    </div>
+    <ul align="left" style="font-family: 'Poppins', sans-serif;">
+        <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
+        <li>👨‍💻 All of my projects are available at
+            <a href="https://rezaahmadisukur.github.io/my-portofolio.github.io/">
+                <strong>My Portofolio</strong>
+            </a>
+        </li>
+        <li>💬 Ask me about <strong>React and Laravel</strong></li>
+        <li>📫 How to reach me <strong>rezaahmadisukur1309@gmail.com</strong>
+        </li>
+    </ul>
+
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<h5 align="right" style="font-family: 'Poppins', sans-serif;">Follow me on:</h5>
+<div align="right">
+    <a href="https://www.facebook.com/reza.ahmadisukur.39">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/rezaahmadisukur?igsh=MW5kdnVwMzcycnAzZA==">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="www.linkedin.com/in/reza-ahmadi-sukur-361a7a311">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://rezaahmadisukur.github.io/my-portofolio.github.io">
+        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<h3 align="center" style="margin: 0;font-family:'Poppins', sans-serif;">📚 Languages and Tools</h3>
+<hr style="margin:0 0 50px;"/>
+<div align="center">
+    <img  src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,php,jquery,tailwind,bootstrap,mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,react,redux,expressjs,laravel,figma,git,github,vscode" />
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<h3 align="center" style="margin: 0;font-family:'Poppins', sans-serif;">⚡ Github Stats</h3>
+<hr style="margin: 0 0 50px"/>
+
+<div align="center">
+    <div align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaahmadisukur&show_icons=true&locale=en&theme=radical&title_color=5c00da&border_color=5c00da"  alt="rezaahmadisukur"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaahmadisukur&theme=radical&ring=5c00da&currStreakLabel=ffffff&fire=dbbf42&border=5c00da&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&" alt="rezaahmadisukur" />
+    </div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaahmadisukur&show_icons=true&locale=en&layout=compact&theme=radical&title_color=5c00da&border_color=5c00da&text_color=ffffff" alt="rezaahmadisukur" />
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<h3 align="center" style="margin: 0;font-family:'Poppins', sans-serif">🖥️ Tech Stack</h3>
+<hr style="margin: 0 0 50px"/>
+
+<div align="center" style="margin: 50px 0">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=whitee" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" />
+</div>
+
+<h3 align="center" style="margin: 0;font-family:'Poppins', sans-serif">🎮 Enjoy with Me</h3>
+<hr style="margin: 0 0 50px"/>
+<img src="https://raw.githubusercontent.com/rezaahmadisukur/rezaahmadisukur/output/snake.svg" alt="Snake animation" />
