@@ -10,7 +10,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rezaahmadisukur&label=&lt;/&gt;%20Profile%20Views&color=5c00da&style=social" alt="rezaahmadisukur" /></p>
 
-<div align="center" heigth="300" style="display:flex; flex-direction: row-reverse; align-items: center">
+<div align="center" heigth="300" style="display:flex; flex-direction: row-reverse; align-items: center;border: 1px solid;">
     <img align="right" alt="coding-gif" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
     <ul align="left" style="font-family: 'Poppins', sans-serif;">
         <li>🌱 I’m currently learning 
@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-<div style="margin: 50px 0">
+<div>
     <h4 align="right" style="font-family: 'Poppins', sans-serif;">Follow me on:</h4>
     <div align="right">
         <a href="https://www.facebook.com/reza.ahmadisukur.39">
