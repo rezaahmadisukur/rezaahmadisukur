@@ -37,20 +37,20 @@
 
 <div style="margin: 50px 0">
     <h5 align="right" style="font-family: 'Poppins', sans-serif;">Follow me on:</h5>
-<div align="right">
-    <a href="https://www.facebook.com/reza.ahmadisukur.39">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/rezaahmadisukur?igsh=MW5kdnVwMzcycnAzZA==">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="www.linkedin.com/in/reza-ahmadi-sukur-361a7a311">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://rezaahmadisukur.github.io/my-portofolio.github.io">
-        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
-    </a>
-</div>
+    <div align="right">
+        <a href="https://www.facebook.com/reza.ahmadisukur.39">
+            <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+        </a>
+        <a href="https://www.instagram.com/rezaahmadisukur?igsh=MW5kdnVwMzcycnAzZA==">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+        <a href="www.linkedin.com/in/reza-ahmadi-sukur-361a7a311">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://rezaahmadisukur.github.io/my-portofolio.github.io">
+            <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+        </a>
+    </div>
 </div>
 
 <br/>
