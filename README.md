@@ -71,22 +71,7 @@
 <br/>
 <br/>
 
-<h2 align="center" style="margin: 0;font-family:'Poppins', sans-serif;">⚡ Github Stats</h2>
-
-<div align="center">
-    <div align="center" style="display: flex">
-        <img align="center" width="370"  src="https://github-readme-stats.vercel.app/api?username=rezaahmadisukur&show_icons=true&locale=en&theme=radical&title_color=5c00da&border_color=5c00da"  alt="rezaahmadisukur"/>
-        <img align="center" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaahmadisukur&theme=radical&ring=5c00da&currStreakLabel=ffffff&fire=dbbf42&border=5c00da&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&" alt="rezaahmadisukur" />
-    </div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaahmadisukur&show_icons=true&locale=en&layout=compact&theme=radical&title_color=5c00da&border_color=5c00da&text_color=ffffff" alt="rezaahmadisukur" />
-</div>
-
-<br/>
-<br/>
-<br/>
-
 <h2 align="center" style="margin: 0;font-family:'Poppins', sans-serif">🖥️ Tech Stack</h2>
-
 <div align="center" style="margin: 50px 0">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -100,6 +85,23 @@
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" />
 </div>
+
+<br/>
+<br/>
+<br/>
+
+<h2 align="center" style="margin: 0;font-family:'Poppins', sans-serif;">⚡ Github Stats</h2>
+<div align="center">
+    <div align="center" style="display: flex">
+        <img align="center" width="370"  src="https://github-readme-stats.vercel.app/api?username=rezaahmadisukur&show_icons=true&locale=en&theme=radical&title_color=5c00da&border_color=5c00da"  alt="rezaahmadisukur"/>
+        <img align="center" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaahmadisukur&theme=radical&ring=5c00da&currStreakLabel=ffffff&fire=dbbf42&border=5c00da&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&" alt="rezaahmadisukur" />
+    </div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaahmadisukur&show_icons=true&locale=en&layout=compact&theme=radical&title_color=5c00da&border_color=5c00da&text_color=ffffff" alt="rezaahmadisukur" />
+</div>
+
+<br/>
+<br/>
+<br/>
 
 <h2 align="center" style="margin: 0;font-family:'Poppins', sans-serif">🎮 Enjoy with Me</h2>
 <img src="https://raw.githubusercontent.com/rezaahmadisukur/rezaahmadisukur/output/snake.svg" alt="Snake animation" />
