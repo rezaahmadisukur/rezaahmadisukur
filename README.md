@@ -7,7 +7,6 @@
 <br />
 
 <h2 style="font-family: 'Poppins', sans-serif;margin: 0">💫About Me</h2>
-<hr style="margin: 0 0 50px"/>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rezaahmadisukur&label=&lt;/&gt;%20Profile%20Views&color=5c00da&style=social" alt="rezaahmadisukur" /></p>
 
@@ -36,7 +35,7 @@
 <br/>
 
 <div style="margin: 50px 0">
-    <h5 align="right" style="font-family: 'Poppins', sans-serif;">Follow me on:</h5>
+    <h4 align="right" style="font-family: 'Poppins', sans-serif;">Follow me on:</h4>
     <div align="right">
         <a href="https://www.facebook.com/reza.ahmadisukur.39">
             <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -57,8 +56,7 @@
 <br/>
 <br/>
 
-<h3 align="center" style="margin: 0;font-family:'Poppins', sans-serif;">📚 Languages and Tools</h3>
-<hr style="margin:0 0 50px;"/>
+<h2 align="center" style="margin: 0;font-family:'Poppins', sans-serif;">📚 Languages and Tools</h2>
 <div align="center">
     <img  src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,php,jquery,tailwind,bootstrap,mysql" />
     <img src="https://skillicons.dev/icons?i=mongodb,react,redux,expressjs,laravel,figma,git,github,vscode" />
@@ -68,8 +66,7 @@
 <br/>
 <br/>
 
-<h3 align="center" style="margin: 0;font-family:'Poppins', sans-serif;">⚡ Github Stats</h3>
-<hr style="margin: 0 0 50px"/>
+<h2 align="center" style="margin: 0;font-family:'Poppins', sans-serif;">⚡ Github Stats</h2>
 
 <div align="center">
     <div align="center">
@@ -83,8 +80,7 @@
 <br/>
 <br/>
 
-<h3 align="center" style="margin: 0;font-family:'Poppins', sans-serif">🖥️ Tech Stack</h3>
-<hr style="margin: 0 0 50px"/>
+<h2 align="center" style="margin: 0;font-family:'Poppins', sans-serif">🖥️ Tech Stack</h2>
 
 <div align="center" style="margin: 50px 0">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -100,6 +96,5 @@
     <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" />
 </div>
 
-<h3 align="center" style="margin: 0;font-family:'Poppins', sans-serif">🎮 Enjoy with Me</h3>
-<hr style="margin: 0 0 50px"/>
+<h2 align="center" style="margin: 0;font-family:'Poppins', sans-serif">🎮 Enjoy with Me</h2>
 <img src="https://raw.githubusercontent.com/rezaahmadisukur/rezaahmadisukur/output/snake.svg" alt="Snake animation" />
