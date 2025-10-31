@@ -11,9 +11,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rezaahmadisukur&label=&lt;/&gt;%20Profile%20Views&color=5c00da&style=social" alt="rezaahmadisukur" /></p>
 
-<div align="center" style="border: 1px solid; height:auto">
-    <div>
-        <img align="right" alt="coding-gif" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+<div  style="display: flex; flex-direction: row-reverse;">
+    <div style="width: 400px;">
+        <img align="right" alt="coding-gif" style="width: 100%" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
     </div>
     <ul align="left" style="font-family: 'Poppins', sans-serif;">
         <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
@@ -26,7 +26,6 @@
         <li>📫 How to reach me <strong>rezaahmadisukur1309@gmail.com</strong>
         </li>
     </ul>
-
 </div>
 
 <br/>
