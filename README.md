@@ -30,10 +30,6 @@
     </ul>
 </div>
 
-<br/>
-<br/>
-<br/>
-
 <div>
     <h2 align="center" style="font-family: 'Poppins', sans-serif;">Follow me on:</h2>
     <div align="center">
