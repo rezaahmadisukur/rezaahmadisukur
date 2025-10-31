@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
-![MasterHead](https://i.pinimg.com/1200x/ca/f4/a5/caf4a59fd5fe4cf4cc55957697914b38.jpg)
+<img src="https://i.pinimg.com/1200x/ca/f4/a5/caf4a59fd5fe4cf4cc55957697914b38.jpg" style="width: 100%;"/>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif;">Hi 👋, I'm <span style="color: #5c00da;">Reza Ahmadi Sukur</span> </h1>
 <h5 align="center" style="font-family: 'Poppins', sans-serif;">Web Developer from Indonesia</h3>
@@ -12,8 +12,8 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rezaahmadisukur&label=&lt;/&gt;%20Profile%20Views&color=5c00da&style=social" alt="rezaahmadisukur" /></p>
 
 <div align="center" style="border: 1px solid; height:auto">
-    <div>
-        <img align="right" alt="coding-gif" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+    <div style="width: 400px">
+        <img align="right" alt="coding-gif" style="width: 100%" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
     </div>
     <ul align="left" style="font-family: 'Poppins', sans-serif;">
         <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
@@ -70,7 +70,7 @@
 <div align="center">
     <div align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaahmadisukur&show_icons=true&locale=en&theme=radical&title_color=5c00da&border_color=5c00da"  alt="rezaahmadisukur"/>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaahmadisukur&theme=radical&ring=5c00da&currStreakLabel=ffffff&fire=dbbf42&border=5c00da&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&" alt="rezaahmadisukur" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaahmadisukur&theme=radical&ring=5c00da&currStreakLabel=ffffff&fire=dbbf42&border=5c00da&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff" alt="rezaahmadisukur" />
     </div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaahmadisukur&show_icons=true&locale=en&layout=compact&theme=radical&title_color=5c00da&border_color=5c00da&text_color=ffffff" alt="rezaahmadisukur" />
 </div>
