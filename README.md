@@ -11,15 +11,8 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rezaahmadisukur&label=&lt;/&gt;%20Profile%20Views&color=5c00da&style=social" alt="rezaahmadisukur" /></p>
 
-<<<<<<< HEAD
-<div  style="display: flex; flex-direction: row-reverse;">
-    <div style="width: 400px;">
-=======
-<div align="center" style="border: 1px solid; height:auto">
-    <div style="width: 400px">
->>>>>>> ab9ee4e8e580420a39b78cc939868ded549c560e
-        <img align="right" alt="coding-gif" style="width: 100%" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
-    </div>
+<div align="center" style="height:200px">
+    <img align="right" alt="coding-gif" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
     <ul align="left" style="font-family: 'Poppins', sans-serif;">
         <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
         <li>👨‍💻 All of my projects are available at
@@ -74,7 +67,7 @@
 <div align="center">
     <div align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaahmadisukur&show_icons=true&locale=en&theme=radical&title_color=5c00da&border_color=5c00da"  alt="rezaahmadisukur"/>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaahmadisukur&theme=radical&ring=5c00da&currStreakLabel=ffffff&fire=dbbf42&border=5c00da&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff" alt="rezaahmadisukur" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaahmadisukur&theme=radical&ring=5c00da&currStreakLabel=ffffff&fire=dbbf42&border=5c00da&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&" alt="rezaahmadisukur" />
     </div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaahmadisukur&show_icons=true&locale=en&layout=compact&theme=radical&title_color=5c00da&border_color=5c00da&text_color=ffffff" alt="rezaahmadisukur" />
 </div>
