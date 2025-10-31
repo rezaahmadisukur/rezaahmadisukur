@@ -35,7 +35,8 @@
 <br/>
 <br/>
 
-<h5 align="right" style="font-family: 'Poppins', sans-serif;">Follow me on:</h5>
+<div style="margin: 10px 0">
+    <h5 align="right" style="font-family: 'Poppins', sans-serif;">Follow me on:</h5>
 <div align="right">
     <a href="https://www.facebook.com/reza.ahmadisukur.39">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -49,6 +50,7 @@
     <a href="https://rezaahmadisukur.github.io/my-portofolio.github.io">
         <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
+</div>
 </div>
 
 <br/>
