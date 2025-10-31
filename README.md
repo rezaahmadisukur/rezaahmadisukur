@@ -75,8 +75,8 @@
 
 <div align="center">
     <div align="center" style="display: flex">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaahmadisukur&show_icons=true&locale=en&theme=radical&title_color=5c00da&border_color=5c00da"  alt="rezaahmadisukur"/>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaahmadisukur&theme=radical&ring=5c00da&currStreakLabel=ffffff&fire=dbbf42&border=5c00da&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&" alt="rezaahmadisukur" />
+        <img align="center" width="370"  src="https://github-readme-stats.vercel.app/api?username=rezaahmadisukur&show_icons=true&locale=en&theme=radical&title_color=5c00da&border_color=5c00da"  alt="rezaahmadisukur"/>
+        <img align="center" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaahmadisukur&theme=radical&ring=5c00da&currStreakLabel=ffffff&fire=dbbf42&border=5c00da&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&" alt="rezaahmadisukur" />
     </div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaahmadisukur&show_icons=true&locale=en&layout=compact&theme=radical&title_color=5c00da&border_color=5c00da&text_color=ffffff" alt="rezaahmadisukur" />
 </div>
