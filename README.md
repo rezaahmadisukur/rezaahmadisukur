@@ -11,17 +11,26 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rezaahmadisukur&label=&lt;/&gt;%20Profile%20Views&color=5c00da&style=social" alt="rezaahmadisukur" /></p>
 
+<<<<<<< HEAD
 <div align="center" style="height:200px">
+=======
+<div align="center" style="border: 1px solid; height:auto">
+>>>>>>> 5f600144f1512bae38c2fdda411483ad306fa86e
     <img align="right" alt="coding-gif" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
     <ul align="left" style="font-family: 'Poppins', sans-serif;">
-        <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
+        <li>🌱 I’m currently learning 
+            <strong>MERN Stack</strong>
+        </li>
         <li>👨‍💻 All of my projects are available at
             <a href="https://rezaahmadisukur.github.io/my-portofolio.github.io/">
                 <strong>My Portofolio</strong>
             </a>
         </li>
-        <li>💬 Ask me about <strong>React and Laravel</strong></li>
-        <li>📫 How to reach me <strong>rezaahmadisukur1309@gmail.com</strong>
+        <li>💬 Ask me about 
+            <strong>React and Laravel</strong>
+        </li>
+        <li>📫 How to reach me 
+            <strong>rezaahmadisukur1309@gmail.com</strong>
         </li>
     </ul>
 </div>
@@ -30,20 +39,22 @@
 <br/>
 <br/>
 
-<h5 align="right" style="font-family: 'Poppins', sans-serif;">Follow me on:</h5>
-<div align="right">
-    <a href="https://www.facebook.com/reza.ahmadisukur.39">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/rezaahmadisukur?igsh=MW5kdnVwMzcycnAzZA==">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="www.linkedin.com/in/reza-ahmadi-sukur-361a7a311">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://rezaahmadisukur.github.io/my-portofolio.github.io">
-        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
-    </a>
+<div style="margin: 50px 0">
+    <h5 align="right" style="font-family: 'Poppins', sans-serif;">Follow me on:</h5>
+    <div align="right">
+        <a href="https://www.facebook.com/reza.ahmadisukur.39">
+            <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+        </a>
+        <a href="https://www.instagram.com/rezaahmadisukur?igsh=MW5kdnVwMzcycnAzZA==">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+        <a href="www.linkedin.com/in/reza-ahmadi-sukur-361a7a311">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://rezaahmadisukur.github.io/my-portofolio.github.io">
+            <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+        </a>
+    </div>
 </div>
 
 <br/>
