@@ -17,7 +17,7 @@
 =======
 <div align="center" style="border: 1px solid; height:auto">
 >>>>>>> ab9ee4e8e580420a39b78cc939868ded549c560e
-    <img align="right" alt="coding-gif" style="width: 100%" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+    <img align="right" alt="coding-gif" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
     <ul align="left" style="font-family: 'Poppins', sans-serif;">
         <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
         <li>👨‍💻 All of my projects are available at
