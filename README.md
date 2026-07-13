@@ -2,7 +2,7 @@
 
 <!-- GIF Banner Pengganti Gambar Pinterest -->
 <div align="center">
-    <img src="https://github.com/rezaahmadisukur/rezaahmadisukur/blob/main/images/relax.gif?raw=true" style="width: 100%; max-width: 600px;" alt="Coding Animation" />
+    <img src="https://raw.githubusercontent.com/rezaahmadisukur/rezaahmadisukur/main/images/relax.gif" style="width: 100%; max-width: 600px;" alt="Coding Animation" />
 </div>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif;">Hi 👋, I'm <span style="color: #5c00da;">Reza Ahmadi Sukur</span> </h1>
