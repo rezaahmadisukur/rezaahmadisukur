@@ -11,7 +11,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rezaahmadisukur&label=&lt;/&gt;%20Profile%20Views&color=5c00da&style=social" alt="rezaahmadisukur" /></p>
 
 <div align="center" heigth="300" style="display:flex; flex-direction: row-reverse; align-items: center;">
-    <img align="right" alt="coding-gif" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+    <img align="right" alt="coding-gif" width="400" src="images/relax.gif">
     <ul align="left" style="font-family: 'Poppins', sans-serif;">
         <li>🚀 Focused on building robust, scalable applications using <strong>NestJS</strong> and <strong>TypeScript</strong>, with a strong commitment to clean code and strict type-safety (no <code>any</code> type allowed!).</li>
         <li>💼 Adept at leveraging <strong>Laravel</strong> to build swift, efficient web solutions tailored for quick turnarounds and UMKM/local business clients.</li>
