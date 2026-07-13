@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif;">Hi 👋, I'm <span style="color: #5c00da;">Reza Ahmadi Sukur</span> </h1>
-<h5 align="center" style="font-family: 'Poppins', sans-serif;">Web Developer from Indonesia</h5>
+<h4 align="center" style="font-family: 'Poppins', sans-serif;">Full-Stack Developer from Indonesia</h4>
 
 <br />
 
