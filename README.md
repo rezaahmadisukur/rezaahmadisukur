@@ -1,29 +1,30 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
-<img src="https://i.pinimg.com/1200x/ca/f4/a5/caf4a59fd5fe4cf4cc55957697914b38.jpg" style="width: 100%;"/>
+<!-- GIF Banner Pengganti Gambar Pinterest -->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/rezaahmadisukur/rezaahmadisukur/main/images/relax.gif" style="width: 100%; max-width: 600px;" alt="Coding Animation" />
+</div>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif;">Hi 👋, I'm <span style="color: #5c00da;">Reza Ahmadi Sukur</span> </h1>
-<h5 align="center" style="font-family: 'Poppins', sans-serif;">Web Developer from Indonesia</h3>
+<h5 align="center" style="font-family: 'Poppins', sans-serif;">Web Developer from Indonesia</h5>
+
 <br />
 
-<h2 style="font-family: 'Poppins', sans-serif;margin: 0">💫About Me</h2>
+<h2 style="font-family: 'Poppins', sans-serif;margin: 0">💫 About Me</h2>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rezaahmadisukur&label=&lt;/&gt;%20Profile%20Views&color=5c00da&style=social" alt="rezaahmadisukur" /></p>
 
-<div align="center" heigth="300" style="display:flex; flex-direction: row-reverse; align-items: center;">
-    <img align="right" alt="coding-gif" width="400" src="images/relax.gif">
-    <ul align="left" style="font-family: 'Poppins', sans-serif;">
-        <li>🚀 Focused on building robust, scalable applications using <strong>NestJS</strong> and <strong>TypeScript</strong>, with a strong commitment to clean code and strict type-safety (no <code>any</code> type allowed!).</li>
-        <li>💼 Adept at leveraging <strong>Laravel</strong> to build swift, efficient web solutions tailored for quick turnarounds and UMKM/local business clients.</li>
-        <li>💬 Ask me about <strong>React</strong>, ecosystem integration, and full-stack development.</li>
-        <li>👨‍💻 All of my flagship projects are featured at 
-            <a href="https://rezaahmadisukur-portofolio.vercel.app/">
-                <strong>My Portfolio</strong>
-            </a>.
-        </li>
-        <li>📫 Feel free to reach out for collaborations at <strong>rezaahmadisukur1309@gmail.com</strong>.</li>
-    </ul>
-</div>
+<ul style="font-family: 'Poppins', sans-serif;">
+    <li>🚀 Focused on building robust, scalable applications using <strong>NestJS</strong> and <strong>TypeScript</strong>, with a strong commitment to clean code and strict type-safety (no <code>any</code> type allowed!).</li>
+    <li>💼 Adept at leveraging <strong>Laravel</strong> to build swift, efficient web solutions tailored for quick turnarounds and UMKM/local business clients.</li>
+    <li>💬 Ask me about <strong>React</strong>, ecosystem integration, and full-stack development.</li>
+    <li>👨‍💻 All of my flagship projects are featured at 
+        <a href="https://rezaahmadisukur-portofolio.vercel.app/">
+            <strong>My Portfolio</strong>
+        </a>.
+    </li>
+    <li>📫 Feel free to reach out for collaborations at <strong>rezaahmadisukur1309@gmail.com</strong>.</li>
+</ul>
 
 <br />
 <br />
