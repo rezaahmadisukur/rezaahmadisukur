@@ -29,6 +29,14 @@
 <br />
 <br />
 <br />
+
+<div align="center">
+    <h3 style="font-family: 'Poppins', sans-serif;">🔥 Want to see what I can build?</h3>
+    <a href="https://rezaahmadisukur-portofolio.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Explore_My_Portfolio-5c00da?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1f2937" alt="Reza Ahmadi Sukur Portfolio" style="height: 50px;" />
+    </a>
+</div>
+
 <br />
 <br />
 <br />
@@ -56,29 +64,40 @@
 <br/>
 <br/>
 
-<h2 align="center" style="margin: 0;font-family:'Poppins', sans-serif;">📚 Languages and Tools</h2>
-<div align="center">
-    <img  src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,php,jquery,tailwind,bootstrap,mysql" />
-    <img src="https://skillicons.dev/icons?i=mongodb,react,redux,expressjs,laravel,figma,git,github,vscode" />
+<h2 align="center" style="margin: 0;font-family:'Poppins', sans-serif">🖥️ Core Tech Stack & Frameworks</h2>
+<div align="center" style="margin: 20px 0">
+    <!-- Bahasa Pemrograman & Markup -->
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <br/>
+    <!-- Frontend -->
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+    <br/>
+    <!-- Backend -->
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
 
 <br/>
 <br/>
 <br/>
 
-<h2 align="center" style="margin: 0;font-family:'Poppins', sans-serif">🖥️ Tech Stack</h2>
-<div align="center" style="margin: 50px 0">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=whitee" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" />
+<h2 align="center" style="margin: 0;font-family:'Poppins', sans-serif;">⚙️ Databases, Tools & DevOps</h2>
+<div align="center" style="margin: 20px 0">
+    <!-- Grid Ikon Skillicons (Database, ORM, DevOps, IDE, dll) -->
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,prisma,postman,git,github,docker,vercel,vscode,figma,npm,linux&perline=7" />
+    </a>
 </div>
 
 <br/>
